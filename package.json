@@ -1,0 +1,16 @@
+{
+  "name": "thai12345",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "รักเธอนะ ฉันทำสำเร็จจนได ้ thai12345",
+  "keywords": [
+    "รักเธอประเทศไทย",
+    "thai12345",
+    "ทดสอบ ภาษาไทย"
+  ],
+  "repository": "https://github.com/gamekub24/thai12345",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
